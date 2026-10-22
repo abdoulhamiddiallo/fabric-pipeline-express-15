@@ -1,0 +1,96 @@
+PIPELINE 15 : DES VUES QUI SE NETTOIENT SEULES, LES HAWKER CENTRES DE SINGAPOUR
+Chaque valeur est sur sa propre ligne : copiez la ligne entière, sans le titre entre crochets.
+
+==================== Objets ====================
+
+[Espace de travail]
+Fabric_Pipeline_15
+
+[Lakehouse (cocher Schémas de lakehouse)]
+LH_Hawker
+
+[Dossier dans Fichiers]
+orders
+
+[Entrepôt]
+WH_Hawker
+
+[Notebook (langage Spark SQL)]
+NB_Hawker
+
+[Connexion Lakehouse]
+CN_Lakehouse
+
+[Pipeline]
+PL_Hawker
+
+==================== Notebook NB_Hawker ====================
+
+[Cellule 1 à Cellule 4]
+Le contenu de sql/01_notebook_mlv.sql, une cellule par bloc.
+Quand les quatre cellules ont leur coche verte : onglet Exécuter, Arrêter la session.
+
+==================== Land orders (Copy data) ====================
+
+[Nom de l'activité]
+Land orders
+
+[Source]
+LH_Hawker, Fichiers, orders/orders_2026-11-09.csv, Texte délimité, en-tête coché
+
+[Destination]
+LH_Hawker, Tables, schéma bronze, table orders, action Remplacer
+
+==================== Refresh lake views (Refresh materialized lake view) ====================
+
+[Recherche dans le ruban Activités]
+materialized
+
+[Nom de l'activité]
+Refresh lake views
+
+[Paramètres]
+Connexion CN_Lakehouse, espace Fabric_Pipeline_15, lakehouse LH_Hawker
+
+==================== Refresh endpoint (Refresh SQL analytics endpoint) ====================
+
+[Nom de l'activité]
+Refresh endpoint
+
+[Paramètres]
+Connexion CN_Lakehouse, espace Fabric_Pipeline_15, point de terminaison LH_Hawker
+
+==================== Read board (Script, sur WH_Hawker) ====================
+
+[Nom de l'activité]
+Read board
+
+[Type]
+Requête
+
+[Requête]
+Le contenu de sql/02_read_board.sql
+
+==================== Post board (Microsoft Teams) ====================
+
+[Nom de l'activité]
+Post board
+
+[Titre]
+Hawker board
+
+[Teams message (à coller directement dans le champ Message)]
+@{activity('Read board').output.resultSets[0].rows[0].msg}
+
+==================== Contrôle ====================
+
+[Contrôle (point de terminaison SQL de LH_Hawker)]
+SELECT centre, orders, portions, revenue_sgd FROM gold.centre_board ORDER BY revenue_sgd DESC;
+
+[Message attendu dans Teams]
+Hawker board, 9 novembre 2026 : 613 commandes valides sur 640 (27 écartées par les contraintes). Meilleur centre : Maxwell, 1755.70 SGD. Plat roi : Satay, 1500.00 SGD. Total : 6938.00 SGD.
+
+==================== Plan B (sans activité Refresh materialized lake view) ====================
+
+[Activité Notebook à la place de Refresh lake views]
+Rebuild lake views, notebook NB_Hawker
