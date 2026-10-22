@@ -1,0 +1,641 @@
+order_id,centre,dish,qty,unit_price_sgd,ordered_at
+15602,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 07:01:00
+15516,Lau Pa Sat,Nasi lemak,3,4.50,2026-11-09 07:02:00
+15076,Maxwell,Chicken rice,1,5.00,2026-11-09 07:05:00
+15454,Maxwell,Satay,30,1.20,2026-11-09 07:05:00
+15023,Maxwell,Hokkien mee,3,6.00,2026-11-09 07:06:00
+15141,Old Airport Road,Chicken rice,1,5.00,2026-11-09 07:12:00
+15366,Maxwell,Char kway teow,1,6.00,2026-11-09 07:13:00
+15562,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 07:16:00
+15319,Lau Pa Sat,Nasi lemak,2,4.50,2026-11-09 07:18:00
+15224,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 07:19:00
+15318,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 07:19:00
+15528,Old Airport Road,Nasi lemak,2,4.50,2026-11-09 07:20:00
+15010,Maxwell,Chicken rice,3,5.00,2026-11-09 07:21:00
+15356,Lau Pa Sat,Laksa,2,,2026-11-09 07:21:00
+15195,Maxwell,Satay,20,1.20,2026-11-09 07:22:00
+15302,Maxwell,Hokkien mee,1,6.00,2026-11-09 07:22:00
+15471,Old Airport Road,Bak kut teh,2,8.50,2026-11-09 07:22:00
+15259,Old Airport Road,Char kway teow,1,6.00,2026-11-09 07:23:00
+15621,Tiong Bahru,Laksa,1,6.50,2026-11-09 07:23:00
+15044,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 07:24:00
+15092,Lau Pa Sat,Bak kut teh,2,8.50,2026-11-09 07:24:00
+15228,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 07:25:00
+15245,Chomp Chomp,Kaya toast,1,3.20,2026-11-09 07:26:00
+15393,Old Airport Road,Nasi lemak,4,4.50,2026-11-09 07:26:00
+15381,Lau Pa Sat,Satay,30,1.20,2026-11-09 07:30:00
+15580,Maxwell,Chicken rice,3,5.00,2026-11-09 07:31:00
+15444,Old Airport Road,Chicken rice,1,5.00,2026-11-09 07:33:00
+15507,Chomp Chomp,Bak kut teh,1,8.50,2026-11-09 07:33:00
+15535,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 07:33:00
+15583,Chomp Chomp,Kaya toast,2,3.20,2026-11-09 07:33:00
+15042,Tiong Bahru,Bak kut teh,1,8.50,2026-11-09 07:36:00
+15428,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 07:40:00
+15553,Chomp Chomp,Char kway teow,3,6.00,2026-11-09 07:40:00
+15025,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 07:41:00
+15219,Maxwell,Hokkien mee,1,6.00,2026-11-09 07:41:00
+15386,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 07:41:00
+15416,Chomp Chomp,Laksa,2,6.50,2026-11-09 07:41:00
+15474,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 07:41:00
+15463,Chomp Chomp,Bak kut teh,1,8.50,2026-11-09 07:42:00
+15546,Maxwell,Nasi lemak,1,4.50,2026-11-09 07:43:00
+15232,Tiong Bahru,Kaya toast,3,3.20,2026-11-09 07:44:00
+15040,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 07:45:00
+15158,Old Airport Road,Hokkien mee,0,6.00,2026-11-09 07:47:00
+15537,Chomp Chomp,Chicken rice,2,5.00,2026-11-09 07:48:00
+15135,Old Airport Road,Chicken rice,3,5.00,2026-11-09 07:49:00
+15498,Old Airport Road,Satay,30,1.20,2026-11-09 07:49:00
+15323,Maxwell,Kaya toast,1,3.20,2026-11-09 07:50:00
+15189,Maxwell,Chicken rice,2,5.00,2026-11-09 07:52:00
+15569,Maxwell,Satay,20,1.20,2026-11-09 07:52:00
+15420,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 07:54:00
+15051,Old Airport Road,Laksa,2,6.50,2026-11-09 07:57:00
+15017,Old Airport Road,Satay,10,1.20,2026-11-09 07:59:00
+15540,Maxwell,Chicken rice,3,5.00,2026-11-09 07:59:00
+15385,Chomp Chomp,Hokkien mee,3,6.00,2026-11-09 08:00:00
+15239,Tiong Bahru,Kaya toast,4,3.20,2026-11-09 08:07:00
+15304,Old Airport Road,Hokkien mee,2,6.00,2026-11-09 08:07:00
+15568,Chomp Chomp,Kaya toast,3,3.20,2026-11-09 08:07:00
+15624,Old Airport Road,Chicken rice,3,5.00,2026-11-09 08:08:00
+15084,Maxwell,Bak kut teh,2,8.50,2026-11-09 08:10:00
+15171,Maxwell,Satay,20,1.20,2026-11-09 08:10:00
+15599,Maxwell,Nasi lemak,1,4.50,2026-11-09 08:10:00
+15181,Old Airport Road,Chicken rice,4,5.00,2026-11-09 08:11:00
+15274,Tiong Bahru,Nasi lemak,2,4.50,2026-11-09 08:11:00
+15364,Chomp Chomp,Kaya toast,2,3.20,2026-11-09 08:12:00
+15424,Maxwell,Bak kut teh,4,8.50,2026-11-09 08:12:00
+15033,Old Airport Road,Satay,10,1.20,2026-11-09 08:14:00
+15406,Tiong Bahru,Nasi lemak,2,4.50,2026-11-09 08:14:00
+15037,Tiong Bahru,Laksa,3,6.50,2026-11-09 08:17:00
+15346,Tiong Bahru,Bak kut teh,3,8.50,2026-11-09 08:19:00
+15477,Chomp Chomp,Chicken rice,3,5.00,2026-11-09 08:19:00
+15093,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 08:21:00
+15539,Tiong Bahru,Hokkien mee,4,6.00,2026-11-09 08:23:00
+15297,Chomp Chomp,Laksa,1,,2026-11-09 08:25:00
+15337,Maxwell,Laksa,1,6.50,2026-11-09 08:25:00
+15233,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 08:27:00
+15533,Chomp Chomp,Bak kut teh,3,8.50,2026-11-09 08:27:00
+15039,Old Airport Road,Bak kut teh,2,8.50,2026-11-09 08:30:00
+15404,Old Airport Road,Char kway teow,1,6.00,2026-11-09 08:30:00
+15136,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 08:31:00
+15526,Maxwell,Nasi lemak,2,4.50,2026-11-09 08:32:00
+15151,Maxwell,Nasi lemak,1,4.50,2026-11-09 08:37:00
+15072,Maxwell,Hokkien mee,3,6.00,2026-11-09 08:43:00
+15260,Maxwell,Nasi lemak,1,4.50,2026-11-09 08:43:00
+15623,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 08:51:00
+15138,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 08:54:00
+15618,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 08:54:00
+15314,Maxwell,Kaya toast,3,3.20,2026-11-09 08:58:00
+15150,Maxwell,Nasi lemak,2,4.50,2026-11-09 09:00:00
+15264,Tiong Bahru,Hokkien mee,2,6.00,2026-11-09 09:01:00
+15431,Maxwell,Laksa,2,6.50,2026-11-09 09:01:00
+15485,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 09:01:00
+15275,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 09:02:00
+15155,Old Airport Road,Satay,30,1.20,2026-11-09 09:07:00
+15291,Maxwell,Laksa,3,6.50,2026-11-09 09:07:00
+15011,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 09:09:00
+15392,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 09:09:00
+15633,Maxwell,Laksa,3,6.50,2026-11-09 09:14:00
+15443,Chomp Chomp,Char kway teow,3,6.00,2026-11-09 09:15:00
+15503,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 09:15:00
+15354,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 09:19:00
+15200,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 09:20:00
+15217,Tiong Bahru,Kaya toast,3,3.20,2026-11-09 09:21:00
+15476,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 09:26:00
+15572,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 09:26:00
+15282,Maxwell,Char kway teow,1,6.00,2026-11-09 09:28:00
+15222,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 09:32:00
+15615,Maxwell,Chicken rice,3,5.00,2026-11-09 09:32:00
+15632,Lau Pa Sat,Laksa,2,6.50,2026-11-09 09:33:00
+15194,Maxwell,Laksa,1,6.50,2026-11-09 09:34:00
+15413,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 09:35:00
+15505,Tiong Bahru,Kaya toast,3,3.20,2026-11-09 09:35:00
+15018,Lau Pa Sat,Satay,10,1.20,2026-11-09 09:36:00
+15226,Chomp Chomp,Chicken rice,4,5.00,2026-11-09 09:36:00
+15261,Maxwell,Bak kut teh,1,8.50,2026-11-09 09:37:00
+15272,Maxwell,Satay,30,1.20,2026-11-09 09:38:00
+15395,Chomp Chomp,Hokkien mee,3,6.00,2026-11-09 09:38:00
+15078,Tiong Bahru,Hokkien mee,1,6.00,2026-11-09 09:39:00
+15547,Chomp Chomp,Kaya toast,3,3.20,2026-11-09 09:40:00
+15117,Tiong Bahru,Laksa,2,6.50,2026-11-09 09:41:00
+15160,Old Airport Road,Bak kut teh,2,8.50,2026-11-09 09:41:00
+15267,Maxwell,Bak kut teh,3,8.50,2026-11-09 09:42:00
+15627,Maxwell,Laksa,1,6.50,2026-11-09 09:44:00
+15577,Tiong Bahru,Nasi lemak,1,4.50,2026-11-09 09:45:00
+15240,Maxwell,Char kway teow,2,6.00,2026-11-09 09:47:00
+15452,Maxwell,Kaya toast,1,3.20,2026-11-09 09:48:00
+15455,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 09:50:00
+15191,Old Airport Road,Laksa,3,6.50,2026-11-09 09:58:00
+15611,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 09:59:00
+15409,Maxwell,Nasi lemak,1,4.50,2026-11-09 10:00:00
+15118,Old Airport Road,Chicken rice,2,5.00,2026-11-09 10:01:00
+15132,Lau Pa Sat,Bak kut teh,2,8.50,2026-11-09 10:03:00
+15529,Lau Pa Sat,Laksa,1,6.50,2026-11-09 10:03:00
+15166,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 10:04:00
+15183,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 10:05:00
+15221,Maxwell,Chicken rice,1,5.00,2026-11-09 10:05:00
+15054,Maxwell,Char kway teow,1,6.00,2026-11-09 10:06:00
+15156,Lau Pa Sat,Hokkien mee,3,6.00,2026-11-09 10:08:00
+15258,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 10:10:00
+15596,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 10:13:00
+15149,Lau Pa Sat,Bak kut teh,2,8.50,2026-11-09 10:15:00
+15184,Maxwell,Hokkien mee,2,6.00,2026-11-09 10:17:00
+15059,Maxwell,Char kway teow,1,6.00,2026-11-09 10:19:00
+15213,Maxwell,Nasi lemak,1,4.50,2026-11-09 10:19:00
+15257,Lau Pa Sat,Hokkien mee,2,6.00,2026-11-09 10:19:00
+15464,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 10:19:00
+15604,Tiong Bahru,Hokkien mee,0,6.00,2026-11-09 10:20:00
+15137,Old Airport Road,Hokkien mee,2,6.00,2026-11-09 10:27:00
+15310,Maxwell,Hokkien mee,4,6.00,2026-11-09 10:28:00
+15548,Maxwell,Bak kut teh,2,8.50,2026-11-09 10:28:00
+15124,Maxwell,Nasi lemak,2,4.50,2026-11-09 10:30:00
+15573,Lau Pa Sat,Bak kut teh,1,8.50,2026-11-09 10:31:00
+15227,Lau Pa Sat,Laksa,2,6.50,2026-11-09 10:32:00
+15456,Lau Pa Sat,Kaya toast,1,3.20,2026-11-09 10:33:00
+15216,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 10:34:00
+15342,Lau Pa Sat,Kaya toast,-1,3.20,2026-11-09 10:36:00
+15179,Old Airport Road,Bak kut teh,2,8.50,2026-11-09 10:37:00
+15459,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 10:38:00
+15126,Maxwell,Satay,10,1.20,2026-11-09 10:39:00
+15640,Maxwell,Chicken rice,2,5.00,2026-11-09 10:39:00
+15369,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 10:42:00
+15487,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 10:42:00
+15106,Chomp Chomp,Hokkien mee,3,6.00,2026-11-09 10:46:00
+15285,Tiong Bahru,Laksa,1,6.50,2026-11-09 10:46:00
+15340,Lau Pa Sat,Nasi lemak,2,4.50,2026-11-09 10:46:00
+15164,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 10:48:00
+15522,Maxwell,Chicken rice,2,5.00,2026-11-09 10:51:00
+15187,Maxwell,Kaya toast,1,3.20,2026-11-09 10:53:00
+15237,Old Airport Road,Chicken rice,3,5.00,2026-11-09 10:55:00
+15225,Old Airport Road,Hokkien mee,3,6.00,2026-11-09 10:57:00
+15241,Maxwell,Hokkien mee,3,6.00,2026-11-09 10:58:00
+15380,Chomp Chomp,Satay,10,1.20,2026-11-09 10:58:00
+15619,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 11:00:00
+15147,Tiong Bahru,Bak kut teh,1,8.50,2026-11-09 11:02:00
+15350,Maxwell,Nasi lemak,3,4.50,2026-11-09 11:06:00
+15422,Old Airport Road,Satay,30,1.20,2026-11-09 11:06:00
+15251,Maxwell,Kaya toast,-1,3.20,2026-11-09 11:07:00
+15600,Maxwell,Laksa,0,6.50,2026-11-09 11:10:00
+15146,Chomp Chomp,Laksa,1,6.50,2026-11-09 11:11:00
+15560,Lau Pa Sat,Laksa,1,6.50,2026-11-09 11:12:00
+15067,Lau Pa Sat,Kaya toast,3,3.20,2026-11-09 11:13:00
+15587,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 11:13:00
+15159,Tiong Bahru,Nasi lemak,-2,4.50,2026-11-09 11:14:00
+15075,Old Airport Road,Chicken rice,1,5.00,2026-11-09 11:15:00
+15462,Tiong Bahru,Chicken rice,-1,5.00,2026-11-09 11:16:00
+15614,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 11:19:00
+15028,Tiong Bahru,Satay,20,1.20,2026-11-09 11:20:00
+15112,Maxwell,Char kway teow,2,6.00,2026-11-09 11:20:00
+15457,Old Airport Road,Char kway teow,1,6.00,2026-11-09 11:21:00
+15527,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 11:21:00
+15484,Old Airport Road,Char kway teow,2,6.00,2026-11-09 11:22:00
+15616,Maxwell,Chicken rice,1,5.00,2026-11-09 11:22:00
+15313,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 11:25:00
+15579,Chomp Chomp,Kaya toast,2,3.20,2026-11-09 11:25:00
+15129,Maxwell,Chicken rice,1,5.00,2026-11-09 11:26:00
+15634,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 11:28:00
+15325,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 11:30:00
+15372,Maxwell,Bak kut teh,1,8.50,2026-11-09 11:30:00
+15597,Maxwell,Kaya toast,1,3.20,2026-11-09 11:31:00
+15613,Lau Pa Sat,Hokkien mee,3,6.00,2026-11-09 11:32:00
+15008,Old Airport Road,Chicken rice,1,5.00,2026-11-09 11:33:00
+15100,Maxwell,Char kway teow,2,,2026-11-09 11:33:00
+15370,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 11:33:00
+15436,Maxwell,Bak kut teh,4,8.50,2026-11-09 11:34:00
+15610,Maxwell,Char kway teow,2,6.00,2026-11-09 11:35:00
+15089,Lau Pa Sat,Kaya toast,1,3.20,2026-11-09 11:36:00
+15223,Lau Pa Sat,Nasi lemak,2,4.50,2026-11-09 11:37:00
+15113,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 11:38:00
+15142,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 11:40:00
+15218,Tiong Bahru,Kaya toast,4,3.20,2026-11-09 11:45:00
+15165,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 11:46:00
+15214,Maxwell,Hokkien mee,2,6.00,2026-11-09 11:46:00
+15530,Tiong Bahru,Laksa,1,6.50,2026-11-09 11:47:00
+15064,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 11:49:00
+15050,Tiong Bahru,Satay,20,1.20,2026-11-09 11:52:00
+15203,Tiong Bahru,Nasi lemak,0,4.50,2026-11-09 11:52:00
+15235,Old Airport Road,Laksa,1,6.50,2026-11-09 11:52:00
+15448,Maxwell,Hokkien mee,3,6.00,2026-11-09 11:53:00
+15531,Maxwell,Hokkien mee,3,6.00,2026-11-09 11:53:00
+15133,Lau Pa Sat,Kaya toast,0,3.20,2026-11-09 11:58:00
+15598,Tiong Bahru,Bak kut teh,1,8.50,2026-11-09 11:58:00
+15635,Maxwell,Chicken rice,0,5.00,2026-11-09 11:59:00
+15128,Maxwell,Laksa,1,6.50,2026-11-09 12:00:00
+15161,Old Airport Road,Chicken rice,1,5.00,2026-11-09 12:01:00
+15504,Tiong Bahru,Kaya toast,2,3.20,2026-11-09 12:03:00
+15489,Old Airport Road,Satay,30,1.20,2026-11-09 12:06:00
+15292,Chomp Chomp,Hokkien mee,-1,6.00,2026-11-09 12:07:00
+15269,Maxwell,Chicken rice,3,5.00,2026-11-09 12:08:00
+15026,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 12:09:00
+15630,Old Airport Road,Chicken rice,2,5.00,2026-11-09 12:09:00
+15148,Tiong Bahru,Laksa,2,6.50,2026-11-09 12:13:00
+15034,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 12:21:00
+15293,Maxwell,Kaya toast,1,3.20,2026-11-09 12:23:00
+15520,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 12:23:00
+15052,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 12:25:00
+15412,Chomp Chomp,Bak kut teh,2,8.50,2026-11-09 12:27:00
+15353,Maxwell,Laksa,2,6.50,2026-11-09 12:29:00
+15593,Tiong Bahru,Kaya toast,1,3.20,2026-11-09 12:30:00
+15065,Tiong Bahru,Kaya toast,1,3.20,2026-11-09 12:31:00
+15080,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 12:34:00
+15361,Lau Pa Sat,Bak kut teh,1,8.50,2026-11-09 12:34:00
+15403,Lau Pa Sat,Satay,20,1.20,2026-11-09 12:35:00
+15268,Chomp Chomp,Chicken rice,4,5.00,2026-11-09 12:36:00
+15359,Lau Pa Sat,Satay,20,1.20,2026-11-09 12:36:00
+15440,Old Airport Road,Hokkien mee,3,6.00,2026-11-09 12:37:00
+15591,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 12:37:00
+15284,Lau Pa Sat,Nasi lemak,3,4.50,2026-11-09 12:38:00
+15328,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 12:38:00
+15127,Lau Pa Sat,Bak kut teh,1,8.50,2026-11-09 12:40:00
+15438,Lau Pa Sat,Bak kut teh,1,8.50,2026-11-09 12:41:00
+15247,Chomp Chomp,Satay,20,1.20,2026-11-09 12:42:00
+15333,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 12:43:00
+15211,Old Airport Road,Chicken rice,2,5.00,2026-11-09 12:44:00
+15492,Lau Pa Sat,Laksa,1,6.50,2026-11-09 12:46:00
+15111,Tiong Bahru,Bak kut teh,1,8.50,2026-11-09 12:47:00
+15567,Tiong Bahru,Bak kut teh,1,8.50,2026-11-09 12:49:00
+15210,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 12:50:00
+15411,Maxwell,Chicken rice,3,5.00,2026-11-09 12:50:00
+15168,Chomp Chomp,Bak kut teh,2,8.50,2026-11-09 12:51:00
+15414,Maxwell,Chicken rice,1,5.00,2026-11-09 12:51:00
+15472,Tiong Bahru,Bak kut teh,2,8.50,2026-11-09 12:51:00
+15205,Tiong Bahru,Satay,20,1.20,2026-11-09 12:52:00
+15167,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 12:53:00
+15060,Lau Pa Sat,Char kway teow,3,6.00,2026-11-09 12:56:00
+15130,Maxwell,Satay,20,1.20,2026-11-09 12:56:00
+15193,Tiong Bahru,Kaya toast,2,3.20,2026-11-09 12:56:00
+15408,Lau Pa Sat,Satay,30,1.20,2026-11-09 12:58:00
+15453,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 12:59:00
+15263,Tiong Bahru,Hokkien mee,0,6.00,2026-11-09 13:01:00
+15418,Tiong Bahru,Satay,30,1.20,2026-11-09 13:02:00
+15345,Maxwell,Hokkien mee,1,6.00,2026-11-09 13:03:00
+15306,Tiong Bahru,Satay,30,1.20,2026-11-09 13:05:00
+15496,Chomp Chomp,Satay,20,1.20,2026-11-09 13:07:00
+15521,Maxwell,Kaya toast,4,3.20,2026-11-09 13:07:00
+15622,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 13:07:00
+15483,Tiong Bahru,Laksa,3,6.50,2026-11-09 13:08:00
+15589,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 13:08:00
+15401,Lau Pa Sat,Laksa,1,6.50,2026-11-09 13:11:00
+15088,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 13:15:00
+15015,Lau Pa Sat,Hokkien mee,1,6.00,2026-11-09 13:16:00
+15287,Old Airport Road,Hokkien mee,1,6.00,2026-11-09 13:17:00
+15320,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 13:17:00
+15437,Old Airport Road,Laksa,2,6.50,2026-11-09 13:17:00
+15153,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 13:18:00
+15559,Maxwell,Chicken rice,1,5.00,2026-11-09 13:18:00
+15447,Maxwell,Hokkien mee,2,6.00,2026-11-09 13:20:00
+15062,Tiong Bahru,Satay,20,1.20,2026-11-09 13:21:00
+15169,Maxwell,Bak kut teh,3,8.50,2026-11-09 13:22:00
+15388,Maxwell,Kaya toast,2,3.20,2026-11-09 13:22:00
+15397,Lau Pa Sat,Satay,30,1.20,2026-11-09 13:24:00
+15038,Lau Pa Sat,Satay,30,1.20,2026-11-09 13:26:00
+15074,Chomp Chomp,Chicken rice,2,5.00,2026-11-09 13:26:00
+15022,Maxwell,Chicken rice,1,5.00,2026-11-09 13:28:00
+15120,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 13:28:00
+15605,Old Airport Road,Kaya toast,2,3.20,2026-11-09 13:28:00
+15079,Tiong Bahru,Bak kut teh,3,8.50,2026-11-09 13:29:00
+15244,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 13:31:00
+15636,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 13:32:00
+15271,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 13:33:00
+15390,Old Airport Road,Chicken rice,3,5.00,2026-11-09 13:36:00
+15190,Old Airport Road,Chicken rice,1,5.00,2026-11-09 13:37:00
+15255,Tiong Bahru,Laksa,1,6.50,2026-11-09 13:40:00
+15317,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 13:40:00
+15570,Maxwell,Chicken rice,4,5.00,2026-11-09 13:40:00
+15585,Old Airport Road,Hokkien mee,3,6.00,2026-11-09 13:41:00
+15105,Maxwell,Laksa,1,6.50,2026-11-09 13:43:00
+15154,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 13:49:00
+15198,Tiong Bahru,Kaya toast,2,3.20,2026-11-09 13:52:00
+15433,Tiong Bahru,Nasi lemak,2,4.50,2026-11-09 13:54:00
+15511,Tiong Bahru,Bak kut teh,2,8.50,2026-11-09 13:54:00
+15009,Maxwell,Laksa,1,6.50,2026-11-09 13:55:00
+15068,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 13:56:00
+15172,Old Airport Road,Nasi lemak,2,4.50,2026-11-09 13:57:00
+15309,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 13:57:00
+15157,Maxwell,Satay,10,1.20,2026-11-09 13:58:00
+15182,Lau Pa Sat,Laksa,1,6.50,2026-11-09 14:03:00
+15410,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 14:03:00
+15209,Maxwell,Laksa,1,6.50,2026-11-09 14:04:00
+15115,Maxwell,Laksa,3,6.50,2026-11-09 14:06:00
+15139,Maxwell,Nasi lemak,3,4.50,2026-11-09 14:06:00
+15180,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 14:06:00
+15186,Lau Pa Sat,Kaya toast,1,3.20,2026-11-09 14:07:00
+15230,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 14:07:00
+15300,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 14:07:00
+15451,Maxwell,Kaya toast,4,3.20,2026-11-09 14:08:00
+15491,Old Airport Road,Char kway teow,-2,6.00,2026-11-09 14:08:00
+15586,Old Airport Road,Kaya toast,4,3.20,2026-11-09 14:11:00
+15003,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 14:13:00
+15549,Chomp Chomp,Laksa,3,6.50,2026-11-09 14:14:00
+15057,Lau Pa Sat,Hokkien mee,2,6.00,2026-11-09 14:15:00
+15466,Old Airport Road,Char kway teow,2,6.00,2026-11-09 14:15:00
+15566,Maxwell,Satay,20,1.20,2026-11-09 14:19:00
+15565,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 14:23:00
+15506,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 14:24:00
+15343,Old Airport Road,Nasi lemak,4,4.50,2026-11-09 14:25:00
+15532,Maxwell,Chicken rice,2,5.00,2026-11-09 14:28:00
+15482,Tiong Bahru,Laksa,3,6.50,2026-11-09 14:29:00
+15625,Old Airport Road,Laksa,3,6.50,2026-11-09 14:30:00
+15429,Maxwell,Nasi lemak,3,4.50,2026-11-09 14:31:00
+15204,Chomp Chomp,Laksa,3,6.50,2026-11-09 14:33:00
+15094,Tiong Bahru,Nasi lemak,1,4.50,2026-11-09 14:34:00
+15005,Chomp Chomp,Kaya toast,1,3.20,2026-11-09 14:35:00
+15347,Old Airport Road,Laksa,1,6.50,2026-11-09 14:38:00
+15523,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 14:39:00
+15201,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 14:44:00
+15638,Maxwell,Nasi lemak,1,4.50,2026-11-09 14:44:00
+15242,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 14:51:00
+15617,Old Airport Road,Nasi lemak,2,4.50,2026-11-09 14:51:00
+15488,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 14:52:00
+15170,Old Airport Road,Char kway teow,2,6.00,2026-11-09 14:54:00
+15175,Old Airport Road,Kaya toast,3,3.20,2026-11-09 14:55:00
+15419,Lau Pa Sat,Char kway teow,3,6.00,2026-11-09 14:55:00
+15425,Old Airport Road,Laksa,1,6.50,2026-11-09 15:00:00
+15513,Lau Pa Sat,Laksa,1,6.50,2026-11-09 15:02:00
+15355,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 15:07:00
+15478,Tiong Bahru,Laksa,1,6.50,2026-11-09 15:10:00
+15341,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 15:12:00
+15125,Old Airport Road,Chicken rice,2,5.00,2026-11-09 15:16:00
+15035,Chomp Chomp,Bak kut teh,2,8.50,2026-11-09 15:18:00
+15063,Chomp Chomp,Laksa,3,6.50,2026-11-09 15:22:00
+15336,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 15:22:00
+15256,Old Airport Road,Laksa,1,6.50,2026-11-09 15:23:00
+15524,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 15:23:00
+15178,Lau Pa Sat,Kaya toast,1,3.20,2026-11-09 15:25:00
+15344,Old Airport Road,Char kway teow,3,6.00,2026-11-09 15:25:00
+15098,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 15:26:00
+15500,Old Airport Road,Hokkien mee,3,6.00,2026-11-09 15:26:00
+15556,Old Airport Road,Laksa,2,6.50,2026-11-09 15:26:00
+15045,Maxwell,Laksa,2,6.50,2026-11-09 15:27:00
+15134,Old Airport Road,Char kway teow,2,6.00,2026-11-09 15:27:00
+15301,Chomp Chomp,Laksa,1,6.50,2026-11-09 15:27:00
+15208,Lau Pa Sat,Kaya toast,2,3.20,2026-11-09 15:28:00
+15006,Maxwell,Nasi lemak,1,4.50,2026-11-09 15:30:00
+15509,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 15:31:00
+15330,Maxwell,Satay,10,1.20,2026-11-09 15:32:00
+15575,Tiong Bahru,Kaya toast,1,3.20,2026-11-09 15:33:00
+15043,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 15:37:00
+15298,Maxwell,Nasi lemak,1,4.50,2026-11-09 15:37:00
+15303,Lau Pa Sat,Char kway teow,3,6.00,2026-11-09 15:38:00
+15481,Old Airport Road,Satay,20,1.20,2026-11-09 15:39:00
+15286,Maxwell,Nasi lemak,1,4.50,2026-11-09 15:40:00
+15077,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 15:46:00
+15220,Maxwell,Laksa,2,6.50,2026-11-09 15:46:00
+15391,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 15:46:00
+15427,Maxwell,Laksa,3,6.50,2026-11-09 15:46:00
+15114,Lau Pa Sat,Hokkien mee,2,6.00,2026-11-09 15:49:00
+15331,Maxwell,Satay,20,1.20,2026-11-09 15:50:00
+15536,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 15:50:00
+15360,Maxwell,Chicken rice,1,5.00,2026-11-09 15:51:00
+15545,Maxwell,Char kway teow,2,6.00,2026-11-09 15:52:00
+15564,Old Airport Road,Chicken rice,2,5.00,2026-11-09 15:52:00
+15571,Maxwell,Chicken rice,2,5.00,2026-11-09 15:52:00
+15152,Maxwell,Kaya toast,2,3.20,2026-11-09 15:57:00
+15305,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 15:57:00
+15307,Maxwell,Laksa,1,6.50,2026-11-09 15:58:00
+15334,Chomp Chomp,Laksa,2,6.50,2026-11-09 15:58:00
+15382,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 16:00:00
+15001,Tiong Bahru,Nasi lemak,1,4.50,2026-11-09 16:01:00
+15131,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 16:03:00
+15229,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 16:05:00
+15515,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 16:05:00
+15461,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 16:06:00
+15144,Chomp Chomp,Laksa,3,6.50,2026-11-09 16:07:00
+15639,Old Airport Road,Kaya toast,1,3.20,2026-11-09 16:07:00
+15368,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 16:12:00
+15574,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 16:15:00
+15311,Tiong Bahru,Nasi lemak,2,4.50,2026-11-09 16:16:00
+15608,Old Airport Road,Kaya toast,1,3.20,2026-11-09 16:16:00
+15629,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 16:17:00
+15480,Tiong Bahru,Kaya toast,1,3.20,2026-11-09 16:18:00
+15013,Old Airport Road,Kaya toast,1,3.20,2026-11-09 16:19:00
+15601,Chomp Chomp,Laksa,4,6.50,2026-11-09 16:19:00
+15544,Chomp Chomp,Laksa,1,6.50,2026-11-09 16:23:00
+15543,Maxwell,Hokkien mee,1,6.00,2026-11-09 16:25:00
+15202,Tiong Bahru,Hokkien mee,2,6.00,2026-11-09 16:27:00
+15262,Maxwell,Satay,20,1.20,2026-11-09 16:28:00
+15277,Tiong Bahru,Kaya toast,1,3.20,2026-11-09 16:29:00
+15396,Maxwell,Kaya toast,1,3.20,2026-11-09 16:30:00
+15296,Maxwell,Bak kut teh,1,8.50,2026-11-09 16:31:00
+15349,Maxwell,Bak kut teh,2,8.50,2026-11-09 16:32:00
+15375,Maxwell,Char kway teow,1,6.00,2026-11-09 16:33:00
+15510,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 16:34:00
+15143,Maxwell,Hokkien mee,2,6.00,2026-11-09 16:35:00
+15378,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 16:36:00
+15177,Maxwell,Laksa,1,6.50,2026-11-09 16:38:00
+15058,Chomp Chomp,Laksa,4,6.50,2026-11-09 16:43:00
+15197,Old Airport Road,Chicken rice,1,5.00,2026-11-09 16:44:00
+15016,Chomp Chomp,Chicken rice,2,5.00,2026-11-09 16:45:00
+15402,Chomp Chomp,Kaya toast,1,3.20,2026-11-09 16:45:00
+15332,Lau Pa Sat,Kaya toast,2,3.20,2026-11-09 16:48:00
+15265,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 16:49:00
+15289,Tiong Bahru,Hokkien mee,1,6.00,2026-11-09 16:49:00
+15365,Maxwell,Char kway teow,1,6.00,2026-11-09 16:52:00
+15387,Maxwell,Satay,30,1.20,2026-11-09 16:53:00
+15421,Tiong Bahru,Nasi lemak,1,4.50,2026-11-09 16:54:00
+15407,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 16:57:00
+15234,Maxwell,Kaya toast,1,3.20,2026-11-09 16:59:00
+15253,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 17:00:00
+15199,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 17:01:00
+15490,Maxwell,Nasi lemak,3,4.50,2026-11-09 17:02:00
+15104,Old Airport Road,Nasi lemak,3,,2026-11-09 17:03:00
+15027,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 17:04:00
+15384,Old Airport Road,Chicken rice,1,5.00,2026-11-09 17:04:00
+15363,Old Airport Road,Char kway teow,1,6.00,2026-11-09 17:06:00
+15434,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 17:08:00
+15273,Chomp Chomp,Kaya toast,1,3.20,2026-11-09 17:10:00
+15442,Tiong Bahru,Char kway teow,2,6.00,2026-11-09 17:12:00
+15576,Lau Pa Sat,Satay,10,1.20,2026-11-09 17:13:00
+15352,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 17:14:00
+15383,Maxwell,Char kway teow,1,6.00,2026-11-09 17:14:00
+15578,Tiong Bahru,Nasi lemak,3,4.50,2026-11-09 17:14:00
+15030,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 17:19:00
+15371,Maxwell,Kaya toast,2,3.20,2026-11-09 17:20:00
+15508,Lau Pa Sat,Char kway teow,1,6.00,2026-11-09 17:20:00
+15512,Lau Pa Sat,Satay,10,1.20,2026-11-09 17:20:00
+15283,Lau Pa Sat,Laksa,4,6.50,2026-11-09 17:22:00
+15584,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 17:29:00
+15004,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 17:32:00
+15374,Maxwell,Char kway teow,3,,2026-11-09 17:32:00
+15486,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 17:32:00
+15495,Maxwell,Nasi lemak,2,4.50,2026-11-09 17:32:00
+15123,Tiong Bahru,Laksa,1,6.50,2026-11-09 17:33:00
+15628,Old Airport Road,Char kway teow,1,6.00,2026-11-09 17:37:00
+15121,Chomp Chomp,Bak kut teh,3,8.50,2026-11-09 17:38:00
+15612,Old Airport Road,Chicken rice,1,5.00,2026-11-09 17:39:00
+15603,Old Airport Road,Kaya toast,4,3.20,2026-11-09 17:40:00
+15609,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 17:41:00
+15405,Old Airport Road,Satay,10,1.20,2026-11-09 17:42:00
+15400,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 17:44:00
+15475,Maxwell,Nasi lemak,1,4.50,2026-11-09 17:44:00
+15053,Chomp Chomp,Laksa,1,6.50,2026-11-09 17:46:00
+15499,Lau Pa Sat,Nasi lemak,2,4.50,2026-11-09 17:46:00
+15095,Maxwell,Char kway teow,3,6.00,2026-11-09 17:48:00
+15212,Lau Pa Sat,Hokkien mee,-3,6.00,2026-11-09 17:48:00
+15290,Tiong Bahru,Satay,30,1.20,2026-11-09 17:49:00
+15469,Old Airport Road,Laksa,1,6.50,2026-11-09 17:50:00
+15470,Lau Pa Sat,Chicken rice,2,5.00,2026-11-09 17:50:00
+15389,Old Airport Road,Satay,20,1.20,2026-11-09 17:51:00
+15590,Tiong Bahru,Bak kut teh,-1,8.50,2026-11-09 17:53:00
+15351,Tiong Bahru,Laksa,1,6.50,2026-11-09 17:55:00
+15367,Maxwell,Satay,30,1.20,2026-11-09 17:55:00
+15315,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 17:56:00
+15032,Maxwell,Nasi lemak,1,4.50,2026-11-09 17:58:00
+15069,Maxwell,Hokkien mee,2,6.00,2026-11-09 17:59:00
+15145,Tiong Bahru,Kaya toast,3,3.20,2026-11-09 18:00:00
+15541,Tiong Bahru,Nasi lemak,1,4.50,2026-11-09 18:03:00
+15324,Old Airport Road,Laksa,0,6.50,2026-11-09 18:04:00
+15049,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 18:05:00
+15322,Maxwell,Satay,30,1.20,2026-11-09 18:10:00
+15582,Lau Pa Sat,Satay,20,1.20,2026-11-09 18:10:00
+15326,Tiong Bahru,Satay,10,1.20,2026-11-09 18:12:00
+15048,Lau Pa Sat,Hokkien mee,3,6.00,2026-11-09 18:16:00
+15122,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 18:19:00
+15012,Maxwell,Chicken rice,1,5.00,2026-11-09 18:27:00
+15321,Lau Pa Sat,Laksa,1,6.50,2026-11-09 18:27:00
+15423,Tiong Bahru,Chicken rice,2,5.00,2026-11-09 18:32:00
+15588,Old Airport Road,Kaya toast,1,3.20,2026-11-09 18:34:00
+15254,Lau Pa Sat,Laksa,3,6.50,2026-11-09 18:37:00
+15538,Old Airport Road,Chicken rice,1,5.00,2026-11-09 18:42:00
+15024,Maxwell,Bak kut teh,2,8.50,2026-11-09 18:43:00
+15631,Old Airport Road,Chicken rice,3,5.00,2026-11-09 18:43:00
+15465,Tiong Bahru,Char kway teow,4,6.00,2026-11-09 18:44:00
+15014,Old Airport Road,Hokkien mee,2,6.00,2026-11-09 18:46:00
+15493,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 18:46:00
+15358,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 18:47:00
+15460,Chomp Chomp,Satay,20,1.20,2026-11-09 18:47:00
+15041,Maxwell,Chicken rice,2,5.00,2026-11-09 18:48:00
+15514,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 18:50:00
+15102,Lau Pa Sat,Kaya toast,2,3.20,2026-11-09 18:51:00
+15116,Tiong Bahru,Laksa,2,6.50,2026-11-09 18:51:00
+15192,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 18:53:00
+15339,Tiong Bahru,Laksa,-1,6.50,2026-11-09 18:53:00
+15231,Maxwell,Hokkien mee,4,6.00,2026-11-09 18:54:00
+15173,Lau Pa Sat,Laksa,1,6.50,2026-11-09 18:57:00
+15266,Maxwell,Char kway teow,2,6.00,2026-11-09 19:03:00
+15581,Old Airport Road,Laksa,1,6.50,2026-11-09 19:03:00
+15379,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 19:04:00
+15103,Tiong Bahru,Char kway teow,1,6.00,2026-11-09 19:05:00
+15249,Tiong Bahru,Satay,30,1.20,2026-11-09 19:10:00
+15435,Maxwell,Nasi lemak,3,4.50,2026-11-09 19:10:00
+15620,Tiong Bahru,Bak kut teh,1,,2026-11-09 19:12:00
+15073,Lau Pa Sat,Satay,10,1.20,2026-11-09 19:13:00
+15250,Chomp Chomp,Laksa,2,,2026-11-09 19:13:00
+15299,Tiong Bahru,Hokkien mee,2,6.00,2026-11-09 19:13:00
+15081,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 19:16:00
+15188,Old Airport Road,Satay,30,1.20,2026-11-09 19:17:00
+15551,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 19:17:00
+15430,Tiong Bahru,Laksa,1,6.50,2026-11-09 19:20:00
+15399,Tiong Bahru,Laksa,2,6.50,2026-11-09 19:23:00
+15415,Tiong Bahru,Hokkien mee,2,6.00,2026-11-09 19:24:00
+15501,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 19:24:00
+15071,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 19:27:00
+15288,Lau Pa Sat,Hokkien mee,2,6.00,2026-11-09 19:27:00
+15090,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 19:29:00
+15119,Lau Pa Sat,Char kway teow,3,6.00,2026-11-09 19:31:00
+15082,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 19:33:00
+15637,Maxwell,Laksa,1,,2026-11-09 19:33:00
+15215,Maxwell,Nasi lemak,3,4.50,2026-11-09 19:34:00
+15252,Lau Pa Sat,Hokkien mee,1,6.00,2026-11-09 19:34:00
+15279,Lau Pa Sat,Satay,10,1.20,2026-11-09 19:37:00
+15373,Chomp Chomp,Bak kut teh,2,8.50,2026-11-09 19:38:00
+15295,Maxwell,Chicken rice,1,5.00,2026-11-09 19:39:00
+15047,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 19:42:00
+15281,Maxwell,Kaya toast,2,3.20,2026-11-09 19:43:00
+15398,Maxwell,Chicken rice,1,5.00,2026-11-09 19:45:00
+15426,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 19:46:00
+15557,Maxwell,Laksa,1,6.50,2026-11-09 19:48:00
+15109,Tiong Bahru,Satay,10,1.20,2026-11-09 19:49:00
+15595,Tiong Bahru,Char kway teow,3,6.00,2026-11-09 19:49:00
+15238,Maxwell,Chicken rice,2,5.00,2026-11-09 19:50:00
+15362,Old Airport Road,Chicken rice,3,5.00,2026-11-09 19:52:00
+15563,Chomp Chomp,Satay,30,1.20,2026-11-09 19:55:00
+15046,Chomp Chomp,Hokkien mee,2,6.00,2026-11-09 19:57:00
+15101,Maxwell,Bak kut teh,1,8.50,2026-11-09 19:57:00
+15140,Maxwell,Chicken rice,1,5.00,2026-11-09 19:58:00
+15561,Tiong Bahru,Nasi lemak,2,4.50,2026-11-09 19:58:00
+15626,Chomp Chomp,Bak kut teh,2,8.50,2026-11-09 19:58:00
+15473,Old Airport Road,Laksa,3,6.50,2026-11-09 20:00:00
+15019,Old Airport Road,Char kway teow,1,6.00,2026-11-09 20:02:00
+15085,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 20:04:00
+15196,Maxwell,Chicken rice,1,5.00,2026-11-09 20:06:00
+15087,Lau Pa Sat,Kaya toast,0,3.20,2026-11-09 20:08:00
+15441,Chomp Chomp,Satay,20,1.20,2026-11-09 20:08:00
+15029,Chomp Chomp,Satay,10,1.20,2026-11-09 20:10:00
+15031,Chomp Chomp,Char kway teow,1,6.00,2026-11-09 20:10:00
+15329,Tiong Bahru,Kaya toast,3,3.20,2026-11-09 20:14:00
+15036,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 20:15:00
+15185,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 20:15:00
+15096,Tiong Bahru,Nasi lemak,3,4.50,2026-11-09 20:17:00
+15206,Lau Pa Sat,Nasi lemak,4,4.50,2026-11-09 20:18:00
+15099,Maxwell,Nasi lemak,3,4.50,2026-11-09 20:19:00
+15066,Tiong Bahru,Satay,20,1.20,2026-11-09 20:20:00
+15108,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 20:24:00
+15162,Maxwell,Char kway teow,1,6.00,2026-11-09 20:27:00
+15176,Tiong Bahru,Satay,30,1.20,2026-11-09 20:29:00
+15348,Chomp Chomp,Char kway teow,2,6.00,2026-11-09 20:29:00
+15502,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 20:29:00
+15554,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 20:30:00
+15607,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 20:30:00
+15449,Maxwell,Nasi lemak,1,4.50,2026-11-09 20:34:00
+15534,Tiong Bahru,Chicken rice,3,5.00,2026-11-09 20:34:00
+15450,Lau Pa Sat,Satay,20,1.20,2026-11-09 20:35:00
+15163,Lau Pa Sat,Chicken rice,3,5.00,2026-11-09 20:38:00
+15417,Lau Pa Sat,Chicken rice,1,5.00,2026-11-09 20:38:00
+15377,Tiong Bahru,Laksa,3,6.50,2026-11-09 20:39:00
+15445,Chomp Chomp,Nasi lemak,2,4.50,2026-11-09 20:39:00
+15020,Chomp Chomp,Nasi lemak,3,4.50,2026-11-09 20:42:00
+15316,Tiong Bahru,Laksa,1,6.50,2026-11-09 20:43:00
+15086,Chomp Chomp,Bak kut teh,1,8.50,2026-11-09 20:44:00
+15479,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 20:44:00
+15494,Chomp Chomp,Chicken rice,1,5.00,2026-11-09 20:44:00
+15432,Chomp Chomp,Nasi lemak,1,4.50,2026-11-09 20:46:00
+15446,Maxwell,Laksa,1,6.50,2026-11-09 20:48:00
+15594,Maxwell,Bak kut teh,1,8.50,2026-11-09 20:48:00
+15021,Maxwell,Hokkien mee,1,6.00,2026-11-09 20:50:00
+15243,Old Airport Road,Laksa,2,6.50,2026-11-09 20:52:00
+15558,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 20:53:00
+15070,Tiong Bahru,Satay,10,1.20,2026-11-09 20:54:00
+15055,Old Airport Road,Laksa,4,6.50,2026-11-09 20:55:00
+15338,Lau Pa Sat,Kaya toast,1,3.20,2026-11-09 20:56:00
+15517,Old Airport Road,Bak kut teh,1,8.50,2026-11-09 20:56:00
+15550,Maxwell,Bak kut teh,3,8.50,2026-11-09 20:56:00
+15525,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 20:57:00
+15236,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 20:58:00
+15327,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 20:59:00
+15007,Old Airport Road,Nasi lemak,3,4.50,2026-11-09 21:00:00
+15308,Old Airport Road,Hokkien mee,1,6.00,2026-11-09 21:02:00
+15519,Old Airport Road,Satay,20,1.20,2026-11-09 21:02:00
+15278,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 21:05:00
+15110,Tiong Bahru,Laksa,1,6.50,2026-11-09 21:08:00
+15276,Chomp Chomp,Kaya toast,4,3.20,2026-11-09 21:08:00
+15174,Old Airport Road,Char kway teow,2,6.00,2026-11-09 21:09:00
+15592,Maxwell,Hokkien mee,1,6.00,2026-11-09 21:10:00
+15468,Maxwell,Hokkien mee,2,6.00,2026-11-09 21:12:00
+15606,Old Airport Road,Chicken rice,1,5.00,2026-11-09 21:12:00
+15091,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 21:14:00
+15357,Old Airport Road,Hokkien mee,2,6.00,2026-11-09 21:14:00
+15394,Chomp Chomp,Char kway teow,2,,2026-11-09 21:15:00
+15518,Lau Pa Sat,Nasi lemak,1,4.50,2026-11-09 21:15:00
+15542,Tiong Bahru,Laksa,1,6.50,2026-11-09 21:19:00
+15061,Old Airport Road,Bak kut teh,3,8.50,2026-11-09 21:20:00
+15552,Lau Pa Sat,Char kway teow,2,6.00,2026-11-09 21:21:00
+15555,Old Airport Road,Nasi lemak,2,4.50,2026-11-09 21:21:00
+15439,Maxwell,Chicken rice,1,5.00,2026-11-09 21:26:00
+15248,Old Airport Road,Satay,10,1.20,2026-11-09 21:29:00
+15280,Maxwell,Nasi lemak,1,4.50,2026-11-09 21:29:00
+15376,Chomp Chomp,Chicken rice,2,5.00,2026-11-09 21:32:00
+15497,Chomp Chomp,Kaya toast,2,3.20,2026-11-09 21:32:00
+15270,Old Airport Road,Kaya toast,1,3.20,2026-11-09 21:33:00
+15207,Old Airport Road,Nasi lemak,1,4.50,2026-11-09 21:35:00
+15107,Maxwell,Char kway teow,2,6.00,2026-11-09 21:36:00
+15083,Chomp Chomp,Hokkien mee,1,6.00,2026-11-09 21:46:00
+15312,Chomp Chomp,Hokkien mee,3,6.00,2026-11-09 21:46:00
+15458,Tiong Bahru,Chicken rice,1,5.00,2026-11-09 21:48:00
+15467,Chomp Chomp,Kaya toast,2,3.20,2026-11-09 21:48:00
+15294,Chomp Chomp,Laksa,1,6.50,2026-11-09 21:53:00
+15335,Lau Pa Sat,Kaya toast,4,3.20,2026-11-09 21:53:00
+15056,Maxwell,Nasi lemak,1,4.50,2026-11-09 21:55:00
+15097,Tiong Bahru,Laksa,1,6.50,2026-11-09 21:58:00
+15246,Lau Pa Sat,Hokkien mee,1,6.00,2026-11-09 21:58:00
+15002,Old Airport Road,Satay,20,1.20,2026-11-09 21:59:00
